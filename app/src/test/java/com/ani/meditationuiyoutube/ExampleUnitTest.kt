@@ -1,4 +1,4 @@
-package com.plcoding.meditationuiyoutube
+package com.ani.meditationuiyoutube
 
 import org.junit.Test
 
